@@ -18,7 +18,7 @@
 
 ## 📫 如何聯繫我
 - Email: arvin8611@gmail.com
-- Facebook: [渲杭的 Facebook]([https://www.linkedin.com/in/abcabcrgrgr](https://www.facebook.com/xuanhang.zhou))
+- Facebook: [渲杭的 Facebook]([https://www.facebook.com/xuanhang.zhou])
 
 ## ⚡ 有趣的事實
 我正在學習vue.js、tailwindcss，希望可以寫出造福人群的程式XD！
