@@ -1,31 +1,24 @@
-# 👋 Hello! I'm [Your Name]  
+# 哈囉，我是周渲杭 👋
 
-### 💻 Full-Stack Developer | 🛠 Problem Solver | 🌍 Lifelong Learner  
+## 🚀 關於我
+我是一名熱愛編程的全端開發者，專注於 Web 技術和後端。在閒暇時間，我喜歡參與開源項目和寫技術日記。
 
-🚀 **About Me:**  
-- 🎓 Bachelor’s in [Your Major] from [Your University].  
-- 🌟 Passionate about building scalable and user-centric applications.  
-- 🛡 Focused on secure, maintainable, and high-quality code.  
+## 🛠 技能
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-📚 **Tech Stack:**  
-- **Languages:**  
-  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+## 📊 GitHub 統計
+![渲杭的 GitHub 統計](https://github-readme-stats.vercel.app/api?username=abcdfrfj&show_icons=true&theme=radical)
 
-- **Frameworks & Tools:**  
-  ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  
+## 📝 最新個人技術日記
+- [如何優化你的 React 應用性能](https://myblog.com/optimize-react-app)
+- [深入淺出 Node.js 串流](https://myblog.com/nodejs-streams)
 
-- **Database & Deployment:**  
-  ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)  
-  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)  
+## 📫 如何聯繫我
+- Email: arvin8611@gmail.com
+- Facebook: [小明的 Facebook]([https://www.linkedin.com/in/abcabcrgrgr](https://www.facebook.com/xuanhang.zhou))
 
-📈 **Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
-🌍 **Let's Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-3A3A3A?style=flat-square&logo=aboutdotme&logoColor=white)](https://yourportfolio.com)  
+## ⚡ 有趣的事實
+我正在學習vue.js、tailwindcss，希望可以寫出造福人群的程式XD！
