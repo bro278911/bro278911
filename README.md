@@ -1,7 +1,7 @@
-# 哈囉，我是周渲杭 👋
+# 哈囉，我是渲杭 👋
 
 ## 🚀 關於我
-我是一名熱愛編程的全端開發者，專注於 Web 技術和後端。在閒暇時間，我喜歡參與開源項目和寫技術日記。
+我是一名熱愛編程的軟體開發者，專注於前端和後端技術。在閒暇時間，我喜歡利用程式解決一些重複性高的問題並且紀錄自己的技術日誌。
 
 ## 🛠 技能
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -10,15 +10,15 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## 📊 GitHub 統計
-![渲杭的 GitHub 統計](https://github-readme-stats.vercel.app/api?username=abcdfrfj&show_icons=true&theme=radical)
+![渲杭的 GitHub 統計](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📝 最新個人技術日記
-- [如何優化你的 React 應用性能](https://myblog.com/optimize-react-app)
-- [深入淺出 Node.js 串流](https://myblog.com/nodejs-streams)
+- [程式寄信(以Gmail為例)學習]([https://myblog.com/optimize-react-app](https://hackmd.io/@ArvinZhou/H1H7V9CN1e))
+- [Line Message API學習]([https://myblog.com/nodejs-streams](https://hackmd.io/@ArvinZhou/B1G_OQEEyl))
 
 ## 📫 如何聯繫我
 - Email: arvin8611@gmail.com
-- Facebook: [小明的 Facebook]([https://www.linkedin.com/in/abcabcrgrgr](https://www.facebook.com/xuanhang.zhou))
+- Facebook: [渲杭的 Facebook]([https://www.linkedin.com/in/abcabcrgrgr](https://www.facebook.com/xuanhang.zhou))
 
 ## ⚡ 有趣的事實
 我正在學習vue.js、tailwindcss，希望可以寫出造福人群的程式XD！
