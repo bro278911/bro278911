@@ -27,8 +27,8 @@
 ![渲杭的 GitHub 統計](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📝 最新個人技術日誌
-- [程式寄信(以Gmail為例)學習]([https://hackmd.io/@ArvinZhou/H1H7V9CN1e])
-- [Line Message API學習]([https://hackmd.io/@ArvinZhou/B1G_OQEEyl])
+- [程式寄信(以Gmail為例)學習](<https://hackmd.io/@ArvinZhou/H1H7V9CN1e>)
+- [Line Message API學習](<https://hackmd.io/@ArvinZhou/B1G_OQEEyl>)
 
 ## 📫 如何聯繫我
 - Email: arvin8611@gmail.com
